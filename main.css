@@ -1,0 +1,8 @@
+.bms-inp {
+	border-radius: 3px;
+	border: 1px solid #000;
+}
+
+.bms-error {
+	color: red;
+}
